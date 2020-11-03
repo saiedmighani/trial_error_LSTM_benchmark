@@ -1,4 +1,4 @@
-# time_series_LSTM_simple_func_medium
+# LSTM_timeseries_benchmark_simple_sine_f
 
 Some links to read:
 
